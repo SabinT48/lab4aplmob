@@ -1,0 +1,48 @@
+{
+  "drinks": [
+    {
+      "name": "2021 Petit Chablis - Passy Le Clou",
+      "type": "White wine",
+      "origin": "From Champagne Blanc",
+      "price": 182,
+      "isAvailable": true,
+      "criticsScore": 100,
+      "tags": ["Green and Flinty"],
+      "imagePath": "https://images.unsplash.com/photo-1700893417238-ce7c7f427996?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2luZSUyMGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D",
+      "isFavorite": false
+    },
+    {
+      "name": "Philippe Fontaine Champagne Brut Rosé, Rose de Saignée, NV",
+      "type": "Sparkling wine",
+      "origin": "From Champagne Blanc",
+      "price": 238,
+      "isAvailable": false,
+      "criticsScore": 98,
+      "tags": [],
+      "imagePath": "https://images.unsplash.com/photo-1700893417219-221864536e99?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cmVkJTIwd2luZSUyMGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D",
+      "isFavorite": false
+    },
+    {
+      "name": "2021 Cicada's Song Rosé",
+      "type": "Rosé wine",
+      "origin": "From Champagne Blanc",
+      "price": 20,
+      "isAvailable": true,
+      "criticsScore": 90,
+      "tags": ["Green and Flinty"],
+      "imagePath": "https://images.unsplash.com/photo-1700893417216-44e85c0a77d7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8d2luZSUyMGJvdHRsZXxlbnwwfHwwfHx8MA%3D%3D",
+      "isFavorite": false
+    },
+    {
+      "name": "Ocone Bozzovich Beneventano Bianco IGT",
+      "type": "Red wine",
+      "origin": "From Champagne Blanc",
+      "price": 400,
+      "isAvailable": true,
+      "criticsScore": 84,
+      "tags": ["Green and Flinty"],
+      "imagePath": "https://cdn.pixabay.com/photo/2013/07/12/16/28/wine-150955_640.png",
+      "isFavorite": false
+    }
+  ]
+}
